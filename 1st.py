@@ -9,4 +9,4 @@ with col2:
     st.write("This is my campusx") 
 
 
-st.sidebar.write("Choose one",['1','2'])
+st.sidebar.selectbox("Choose one",['1','2'])
