@@ -10,3 +10,5 @@ with col2:
 
 
 st.sidebar.selectbox("Choose one",['1','2'])
+st.sidebar.selectbox("Select one",['Teacher','Student'])
+st.sidebar.button('select')
